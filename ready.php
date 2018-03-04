@@ -3,13 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
-<meta name="google" content="notranslate"/>
-<meta property="og:type" content="Happy Holi"/>
-<meta property="og:title" content="Wishing You Happy Holi"/>
-<meta property="og:url" content="http://jaddu-dekho.com/">
-<meta property="og:description" content="Make Your Holi wish">
-<meta property="og:site_name" content="Wishing You Happy Holi"/>
-<meta property="og:image" content="holi1.png">
+
 <title>Create Your Holi wish</title>
 
 
@@ -557,7 +551,7 @@ pagespeed.lazyLoadInit(true, "/pagespeed_static/1.JiBnMqyl6S.gif");
 </div>
 <h3><p class="hny-txt">की तरफ से</p></h3>
 <p id="demoo" style="font-size: 20px; font-weight: bold;"></p>
-<h3><p class="hny-txt">पहले</p></h3>
+
 <img src="xholitext.png.pagespeed.ic.faIglT3wiK.webp" width="80%" height="30%" style="animation: tada 4s infinite;"/>
 <img class="center swing2" src="300x150xholi1.png.pagespeed.ic.9aCl13M6Sk.webp" height="150px" width="300px"/></span>
 <p class="lines">
@@ -565,18 +559,14 @@ pagespeed.lazyLoadInit(true, "/pagespeed_static/1.JiBnMqyl6S.gif");
 भिगा दो आज हर एक की झोली,<br>
 कोई मुस्कुरा दे तो उसे गले लगा लो,<br>
 वरना निकल लो, लगा के रंग कह के हैप्पी होली। <br>
-</p><span id="show-name" style="color: darkblue;">k</span>
-<center>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-1251254486621556" data-ad-slot="3133218707"></ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-</center>
+</p><span id="show-name" style="color: darkblue;"></span>
+
 <br/><br/><br/><br/><br/>
 </div>
 </div>
 <div class="form-container">
 <center>
-<a class="footerbtn" href="whatsapp://send?text=My Holi Wish for you %0A Dekhna Pkka%0A👉jaddu-dekho.com/?n=k"><img width="25px" height="25px" data-pagespeed-lazy-src="25x25xwp.png.pagespeed.ic.WAFD-AXQCS.webp" src="/pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/><b style="font-size: 18px;">शेयर करने के लिए यहाँ क्लिक करे </b> <img width="25px" height="25px" data-pagespeed-lazy-src="25x25xwp.png.pagespeed.ic.WAFD-AXQCS.webp" src="/pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></a></center>
+<a class="footerbtn" href="whatsapp://send?text=My Holi Wish for you %0A Dekhna Pkka%0A👉jaddu-dekho.com/?n="><img width="25px" height="25px" data-pagespeed-lazy-src="25x25xwp.png.pagespeed.ic.WAFD-AXQCS.webp" src="/pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/><b style="font-size: 18px;">शेयर करने के लिए यहाँ क्लिक करे </b> <img width="25px" height="25px" data-pagespeed-lazy-src="25x25xwp.png.pagespeed.ic.WAFD-AXQCS.webp" src="/pagespeed_static/1.JiBnMqyl6S.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></a></center>
 </center>
 </div>
 <script type="text/javascript" data-pagespeed-no-defer>pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script>var countDownDate=new Date("Mar 01, 2018 00:00:00").getTime();var x=setInterval(function(){var now=new Date().getTime();var distance=countDownDate-now;var days=Math.floor(distance/(1000*60*60*24));var hours=Math.floor((distance%(1000*60*60*24))/(1000*60*60));var minutes=Math.floor((distance%(1000*60*60))/(1000*60));var seconds=Math.floor((distance%(1000*60))/1000);document.getElementById("demoo").innerHTML=days+"दिन "+hours+"घंटे "+minutes+"मिनट"+seconds+"सैकंड";if(distance<0){clearInterval(x);document.getElementById("demoo").innerHTML="";}},1000);</script>
